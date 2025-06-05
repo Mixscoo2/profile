@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mico</h1>
-<h3 align="center">A passionate frontend developer from China Shenzen Sorting Center</h3>
+<h3 align="center">A passionate web developer from the Philippines</h3>
 
 - 🔭 I’m currently working on **E-Commerce Website**
 
